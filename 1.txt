@@ -1,5 +1,4 @@
 # 20260630
-qwertyuiasdfgh
 add branch
 add main
 m02
